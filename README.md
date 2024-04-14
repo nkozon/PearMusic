@@ -1,7 +1,7 @@
 <div align="center">
     <img src="./app/src/main/ic_launcher-playstore.png" width="128" height="128" style="display: block; margin: 0 auto"/>
     <h1>PearMusic</h1>
-    <p>An Android application for streaming music from YouTube Music</p>
+    <p>An Apple Music like music player that uses YouTube Music</p>
 </div>
 
 ## Forking information
@@ -11,6 +11,7 @@ I forked vfsfitvnm's ViMusic because the app was so well made. And I wanted to m
 ---
 
 !! No screenshots yet.
+
 
 ## Features
 - Play (almost) any song or video from YouTube Music
